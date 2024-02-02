@@ -8,6 +8,7 @@ Path to becoming Google Professional Machine Learning Engineer
 ## Labs
 0. [Predicting Visitor Purchases with BigQuery ML](https://partner.cloudskillsboost.google/course_sessions/7189592/labs/423376)
 1. [Deploy a BigQuery ML Customer Churn Classifier to Vertex AI for Online Predictions](https://partner.cloudskillsboost.google/focuses/21101?parent=catalog)
+2. [Building an Image Classification ML Ops pipeline using Vertex AI](https://partner.cloudskillsboost.google/course_sessions/9721642/labs/409016)
 
 
 ## Readings
